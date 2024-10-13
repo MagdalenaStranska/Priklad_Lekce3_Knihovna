@@ -9,11 +9,11 @@ const book1 = {
     datumVydani: {
         original: 1989,
         ceskyPreklad: 2009,
-    }
+    },
     ISBN: '978-80-242-2410-7',
 }
 
-const book1 = {
+const book2 = {
     nazev: 'Na věky věků',
     nazevOriginalu: 'World Without End',
     autor: 'Ken Follett',
@@ -21,6 +21,6 @@ const book1 = {
     datumVydani: {
         original: 2007,
         ceskyPreklad: 2009,
-    }
+    },
     ISBN: '978-80-242-2382-7',
 }
